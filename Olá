@@ -1,1 +1,4 @@
 # Include <iostream>
+
+systenrs ("pause");
+return 0;
